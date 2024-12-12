@@ -1,6 +1,4 @@
-# [Almog Nachshon resume cv project](http://startbootstrap.com/) 
-
-# Resume Project
+# [Almog Nachshon resume cv project](https://github.com/almog-nachshon/resume-project/) 
 
 This is my resume project.
 
