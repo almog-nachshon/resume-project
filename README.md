@@ -1,6 +1,11 @@
 # [Almog Nachshon resume cv project](http://startbootstrap.com/) 
 
-[Resume](https://izzydoesizzy.github.io/resumetemplate/) is a one page creative theme for [Bootstrap](http://getbootstrap.com/) created by [Izzy Piyale-Sheard](http://izzydoesizzy.com/).
+# Resume Project
+
+This is my resume project.
+
+![Resume Test Image](https://github.com/almog-nachshon/resume-project/blob/main/images/resume_test.png?raw=true)
+
 
 ## Getting Started
 
